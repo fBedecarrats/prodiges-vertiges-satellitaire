@@ -1,0 +1,167 @@
+---
+title: Prodiges et vertiges des données satellitaires pour l'évaluation
+author: "``Florent Bédécarrats (IRD-SOURCE)``"
+institute: "``Tany Vao - Université d'Antananarivo\n25/10/2022``"
+format: revealjs
+bibliography: references.bib
+title-slide-attributes:
+    
+    data-background-image: sources/VIIRS_Mada1.png
+    data-background-size: contain
+    data-background-color: "#43464B"
+editor_options: 
+  chunk_output_type: console
+---
+
+## Objectifs de la présentation
+
+-   Décrire la diversification des usages
+
+-   Facteurs de diffusion
+
+-   Risques associés
+
+-   Solutions et précautions
+
+## Perspective
+
+-   Témoin et complice de l'adoption (AFD, KfW)
+
+-   Laboratoire SOURCE
+
+-   Agenda de recherche
+
+    -   Innovation sur les méthodes d'évaluation
+    -   Application à des enjeux d'adaptation
+    -   Economie politique de la mesure
+
+## Exemple : irrigation agricole {.smaller}
+
+![](sources/SAED_Agro.jpg){.absolute top="60" left="-250"}
+
+![](sources/SAED_Stats.jpg){.absolute bottom="0" right="-250" width="600"}
+
+## Diffusion des usages
+
+-   **Versant méthodologique**
+
+    -   Des sciences naturelles aux sciences sociales
+    -   Du fondamental aux applications
+
+-   **Versant de la mise en oeuvre**
+
+    -   Evaluation ex post
+    -   Suivi-évaluation
+    -   Conception
+    -   Opérationnel
+
+## Champ toujours plus large {.smaller}
+
+Quelques synthèses de la littérature en économie [@donaldson2016]
+
+::: columns
+::: column
+Les sujets "classiques"
+
+-   Environnement/biodiversité
+-   Gestion forestière, Qualité de l'air
+-   Climat, météorologie
+-   Topographie : accidenté
+-   Agriculture, sécurité alimentaire
+-   Hydrologie, risques naturels
+:::
+
+::: column
+"Nouveaux" sujets
+
+-   Développement économique : luminosité, infrastructures
+-   Urbanisation, bâti, localisation et mouvements de population, transports
+-   Déterminants de santé
+-   Raffinement des sujets classiques (ex. dégradation des forêts)
+-   Interfaces entre ces sujets ("nexus")
+:::
+:::
+
+Les données satellitaires sont mobilisées pour calculer 30/231 indicateurs ODD et elles renseignent utilsement 71 des 169 cibles ODD [@geo2019; @estoque2020].
+
+## Relation aux autres sources
+
+Besoins de croisement
+
+-   Relevés terrain
+-   Données administratives
+-   Données crowdsourcées
+-   Fusion de données : pauvreté, biodiversité, densité de population
+
+## Exemple de fusion de données {.smaller}
+
+::: columns
+::: {.column width="40%"}
+
+Cartes de pauvreté [@lee2022]   
+
+Combinent des données :
+
+- Enquêtes DHS
+- Satellitaire (VIIRS, HRSL)
+- OpenStreetMap
+
+Intelligence artificielle et CNN
+
+Enorme potentiel pour les politiques publiques
+
+Risques également : incertitudes, (més)usages
+
+:::
+
+::: {.column width="60%"}
+![](sources/Poverty_Madagascar.jpg)
+:::
+:::
+
+## Facteurs favorisant l'essor
+
+-   Disponibilité gratuite
+-   Couverture mondiale, même là où peu d'autres données
+-   Fréquences de mise à jour
+-   Accessibilité des infrastructures et systèmes de traitement
+-   Disponibilité de données pré-processées
+-   Matériel didactique
+-   Initiatives de soutien
+
+## Risques et dérives de la popularisation {.smaller}
+
+- Risque méthodologique : mésusages des données, traitements ou interprétation
+
+- Risque épistémologique : métaphore du lampadaire
+
+- Risque sociopolitique : cybertariat, solutionnisme [@fourcade2020; @burrell2021]
+
+- Risque techno-économique : place centrale de Google Earth Engine dans ce phénomène
+
+- Economie politique : le terrain à distance
+
+## Pistes de solution {.smaller}
+
+::: columns
+
+::: {.column width="60%"}
+
+-   Plateformes libres et/ou publiques :
+
+    -   Infrastructures : ex. Copernicus
+    -   Systèmes: ex. Onyxia (INSEE)
+    -   Logicielles: ex. Mapme (KfW, AFD)
+
+-   Formations et réseaux d'échange
+
+-   Approches mixtes incluant quali et terrain
+
+-   Réflexivité
+
+:::
+
+:::
+![](sources/Mapme.png){.absolute top="70" right="0" width="500"}
+
+## Références
