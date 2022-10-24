@@ -2,6 +2,7 @@
 title: Prodiges et vertiges des données satellitaires pour l'évaluation
 author: "``Florent Bédécarrats (IRD-SOURCE)``"
 institute: "``Tany Vao - Université d'Antananarivo\n25/10/2022``"
+footer: https://fbedecarrats.github.io/prodiges-vertiges-satellitaire
 format: revealjs
 bibliography: references.bib
 title-slide-attributes:
@@ -21,7 +22,7 @@ editor_options:
 
 -   Risques associés
 
--   Solutions et précautions
+-   Solutions et précautions 
 
 ## Perspective
 
@@ -37,9 +38,9 @@ editor_options:
 
 ## Exemple : irrigation agricole {.smaller}
 
-![](sources/SAED_Agro.jpg){.absolute top="60" left="-250"}
+![](sources/SAED_Agro.jpg){.absolute top="100" left="-150" width="750"}
 
-![](sources/SAED_Stats.jpg){.absolute bottom="0" right="-250" width="600"}
+![](sources/SAED_Stats.jpg){.absolute bottom="100" right="-150" width="600"}
 
 ## Diffusion des usages
 
@@ -109,7 +110,7 @@ Intelligence artificielle (XGBoost et CNN)
 
 Enorme potentiel pour les politiques publiques et leur évaluation
 
-Risques également : quantification des incertitudes, (més)usages
+Risques toutefois : quantification des incertitudes, (més)usages
 :::
 
 ::: {.column width="60%"}
@@ -133,6 +134,8 @@ Risques également : quantification des incertitudes, (més)usages
 
 -   Risque épistémologique : métaphore du lampadaire
 
+-   Risque ontologique : quelle est la natue même des enjeux homme-nature qu'on étudie (conservation "moderne" vs. savoirs vernaculaires) [@culas2022]
+
 -   Risque sociopolitique : cybertariat, solutionnisme [@fourcade2020; @burrell2021]
 
 -   Risque techno-économique : place centrale de Google Earth Engine dans ce phénomène
@@ -142,7 +145,7 @@ Risques également : quantification des incertitudes, (més)usages
 ## Pistes de solution {.smaller}
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="50%"}
 -   Plateformes libres et/ou publiques :
 
     -   Infrastructures : ex. Copernicus
