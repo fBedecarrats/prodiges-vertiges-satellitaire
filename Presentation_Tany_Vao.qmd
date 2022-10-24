@@ -88,7 +88,7 @@ Les données satellitaires sont mobilisées pour calculer 30/231 indicateurs ODD
 
 Besoins de croisement
 
--   Relevés sur le terrain 
+-   Relevés sur le terrain
 -   Données administratives
 -   Données crowdsourcées
 -   Fusion de données : pauvreté, biodiversité, densité de population
@@ -105,11 +105,11 @@ Combinent des données :
 -   Satellitaire (VIIRS, HRSL)
 -   OpenStreetMap
 
-Intelligence artificielle et CNN
+Intelligence artificielle (XGBoost et CNN)
 
-Enorme potentiel pour les politiques publiques
+Enorme potentiel pour les politiques publiques et leur évaluation
 
-Risques également : incertitudes, (més)usages
+Risques également : quantification des incertitudes, (més)usages
 :::
 
 ::: {.column width="60%"}
@@ -151,7 +151,7 @@ Risques également : incertitudes, (més)usages
 
 -   Formations et réseaux d'échange
 
--   Approches mixtes incluant quali et terrain
+-   Approches mixtes incluant qualitatif et terrain
 
 -   Réflexivité
 :::
