@@ -22,7 +22,7 @@ editor_options:
 
 -   Risques associés
 
--   Solutions et précautions 
+-   Solutions et précautions
 
 ## Perspective
 
@@ -54,7 +54,7 @@ editor_options:
     -   Evaluation ex post
     -   Suivi-évaluation
     -   Conception
-    -   Opérationnel
+    -   Opérationnel (ex. [projet Talaky à Beampigaratsy](https://www.nitidae.org/actions/talaky-conservation-et-valorisation-des-forets-intensification-et-diversification-ecologique-de-l-agriculture-amenagement-concerte-durable))
 
 ## Champ toujours plus large {.smaller}
 
@@ -62,10 +62,11 @@ Quelques synthèses de la littérature en économie [@donaldson2016]
 
 ::: columns
 ::: column
-Les sujets "classiques"
+**Sujets "classiques"**
 
 -   Environnement/biodiversité
--   Gestion forestière, Qualité de l'air
+-   Gestion forestière
+-   Qualité de l'air
 -   Climat, météorologie
 -   Topographie : accidenté
 -   Agriculture, sécurité alimentaire
@@ -73,9 +74,9 @@ Les sujets "classiques"
 :::
 
 ::: column
-"Nouveaux" sujets
+**"Nouveaux" sujets**
 
--   Développement économique : luminosité, infrastructures
+-   Développement économique : luminosité nocturne, infrastructures
 -   Urbanisation, bâti, localisation et mouvements de population, transports
 -   Déterminants de santé
 -   Raffinement des sujets classiques (ex. dégradation des forêts)
@@ -91,7 +92,7 @@ Besoins de croisement
 
 -   Relevés sur le terrain
 -   Données administratives
--   Données crowdsourcées
+-   Données contributives
 -   Fusion de données : pauvreté, biodiversité, densité de population
 
 ## Exemple de fusion de données {.smaller}
@@ -103,12 +104,13 @@ Cartes de pauvreté [@lee2022]
 Combinent des données :
 
 -   Enquêtes DHS
--   Satellitaire (VIIRS, HRSL)
+-   Satellitaire (VIIRS, Google SM)
+-   Population (HRLS)
 -   OpenStreetMap
 
-Intelligence artificielle (XGBoost et CNN)
+Intelligence artificielle (XGBoost et CNN), assez fiable (R2 = 89%)
 
-Enorme potentiel pour les politiques publiques et leur évaluation
+Enorme potentiel d'utilisation
 
 Risques toutefois : quantification des incertitudes, (més)usages
 :::
@@ -118,15 +120,16 @@ Risques toutefois : quantification des incertitudes, (més)usages
 :::
 :::
 
-## Facteurs favorisant l'essor
+## Facteurs favorisant l'essor {.smaller}
 
 -   Disponibilité gratuite
 -   Couverture mondiale, même là où peu d'autres données
+-   Accès au terrain (COVID, conflits) [@yokoi2020]
 -   Fréquences de mise à jour
 -   Accessibilité des infrastructures et systèmes de traitement
 -   Disponibilité de données pré-processées
 -   Matériel didactique
--   Initiatives de soutien
+-   Initiatives de soutien (ex. Space for International Development Assistance)
 
 ## Risques et dérives de la popularisation {.smaller}
 
@@ -134,9 +137,9 @@ Risques toutefois : quantification des incertitudes, (més)usages
 
 -   Risque épistémologique : métaphore du lampadaire
 
--   Risque ontologique : quelle est la natue même des enjeux homme-nature qu'on étudie (conservation "moderne" vs. savoirs vernaculaires) [@culas2022]
+-   Risque ontologique : quelle est la nature même des enjeux homme-nature qu'on étudie (conservation "moderne" vs. savoirs vernaculaires) [@culas2022]
 
--   Risque sociopolitique : cybertariat, solutionnisme [@fourcade2020; @burrell2021]
+-   Risque sociopolitique : cybertariat, solutionnisme [@fourcade2020]
 
 -   Risque techno-économique : place centrale de Google Earth Engine dans ce phénomène
 
@@ -162,4 +165,4 @@ Risques toutefois : quantification des incertitudes, (més)usages
 
 ![](sources/Mapme.png){.absolute top="70" right="0" width="500"}
 
-## Références
+## Références {.smaller}
